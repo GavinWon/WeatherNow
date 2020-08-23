@@ -8,7 +8,7 @@ A weather app that allows you to check the weather for any location based on GPS
 <img src="https://github.com/GavinWon/WeatherNow/blob/master/weathernow.png" alt="Finished App" width=300>
 
 
-##Condition Codes
+## Condition Codes
 
 ```swift
 switch (condition) {
