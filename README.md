@@ -9,7 +9,8 @@ A weather app that allows you to check the weather for any location based on GPS
 
 
 ##Condition Codes
-'''
+
+```swift
     switch (condition) {
     
         case 0...300 :
@@ -48,4 +49,4 @@ A weather app that allows you to check the weather for any location based on GPS
         default :
             return "dunno"
         }
-'''
+```
