@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C33F275C79F535C92154BEA79AA425E9"
-               BuildableName = "Pods_Clima.framework"
-               BlueprintName = "Pods-Clima"
+               BlueprintIdentifier = "C7FE48CBE83BBD1A71006CFBF4A98FB9"
+               BuildableName = "Pods_WeatherNow.framework"
+               BlueprintName = "Pods-WeatherNow"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -42,17 +40,6 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C33F275C79F535C92154BEA79AA425E9"
-            BuildableName = "Pods_Clima.framework"
-            BlueprintName = "Pods-Clima"
-            ReferencedContainer = "container:Pods.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
