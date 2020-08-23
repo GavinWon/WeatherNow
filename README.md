@@ -50,3 +50,5 @@ switch (condition) {
         return "dunno"
     }
 ```
+
+Projects and files were created and written following iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp (udemy)
